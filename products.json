@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Sillas Exterior.",
+        "price": 85000,
+        "image": { "fields": { "file": { "url": "./assets/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Sillas De Comedor.",
+        "price": 55000,
+        "image": { "fields": { "file": { "url": "./assets/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Sillon L.",
+        "price": 135000,
+        "image": { "fields": { "file": { "url": "./assets/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Sillon Large Gray.",
+        "price": 165000,
+        "image": { "fields": { "file": { "url": "./assets/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Sillas Oficina.",
+        "price": 105000,
+        "image": { "fields": { "file": { "url": "./assets/product-8.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Sillon Exterior.",
+        "price": 85000,
+        "image": { "fields": { "file": { "url": "./assets/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Cama King Size",
+        "price": 225000,
+        "image": { "fields": { "file": { "url": "./assets/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Pack Sillon + Mesa + Banco.",
+        "price": 375000,
+        "image": { "fields": { "file": { "url": "./assets/th.jpg" } } }
+      }
+    }
+  ]
+}
